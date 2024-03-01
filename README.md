@@ -1,2 +1,2 @@
-# Hafiz Majid Hussain ## Electrical Engineer
+# Hafiz Majid Hussain ## 
 theme: THEME-NAME
